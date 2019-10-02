@@ -1,0 +1,21 @@
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\bin\Debug\Capa Negocios.dll
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\bin\Debug\Capa Negocios.pdb
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\bin\Debug\Capa Datos.dll
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\bin\Debug\Capa Entidad.dll
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\bin\Debug\Capa Datos.pdb
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\bin\Debug\Capa Entidad.pdb
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\obj\Debug\Capa Negocios.csprojAssemblyReference.cache
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\obj\Debug\Capa Negocios.csproj.CoreCompileInputs.cache
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\obj\Debug\Capa Negocios.csproj.CopyComplete
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\obj\Debug\Capa Negocios.dll
+D:\AmericanSoftEscritorio\Admin\Capa Negocios\obj\Debug\Capa Negocios.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\bin\Debug\Capa Negocios.dll
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\bin\Debug\Capa Negocios.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\bin\Debug\Capa Datos.dll
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\bin\Debug\Capa Entidad.dll
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\bin\Debug\Capa Datos.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\bin\Debug\Capa Entidad.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\obj\Debug\Capa Negocios.csprojAssemblyReference.cache
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\obj\Debug\Capa Negocios.csproj.CopyComplete
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\obj\Debug\Capa Negocios.dll
+C:\Users\American Soft\Desktop\Admin\Capa Negocios\obj\Debug\Capa Negocios.pdb

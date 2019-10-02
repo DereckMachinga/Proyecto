@@ -1,0 +1,11 @@
+D:\AmericanSoftEscritorio\Admin\Capa Entidad\bin\Debug\Capa Entidad.dll
+D:\AmericanSoftEscritorio\Admin\Capa Entidad\bin\Debug\Capa Entidad.pdb
+D:\AmericanSoftEscritorio\Admin\Capa Entidad\obj\Debug\Capa Entidad.csprojAssemblyReference.cache
+D:\AmericanSoftEscritorio\Admin\Capa Entidad\obj\Debug\Capa Entidad.csproj.CoreCompileInputs.cache
+D:\AmericanSoftEscritorio\Admin\Capa Entidad\obj\Debug\Capa Entidad.dll
+D:\AmericanSoftEscritorio\Admin\Capa Entidad\obj\Debug\Capa Entidad.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Entidad\bin\Debug\Capa Entidad.dll
+C:\Users\American Soft\Desktop\Admin\Capa Entidad\bin\Debug\Capa Entidad.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Entidad\obj\Debug\Capa Entidad.csprojAssemblyReference.cache
+C:\Users\American Soft\Desktop\Admin\Capa Entidad\obj\Debug\Capa Entidad.dll
+C:\Users\American Soft\Desktop\Admin\Capa Entidad\obj\Debug\Capa Entidad.pdb

@@ -1,0 +1,37 @@
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\bin\Debug\Capa Presentacion.exe.config
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\bin\Debug\Capa Presentacion.exe
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\bin\Debug\Capa Presentacion.pdb
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.csprojAssemblyReference.cache
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.exe
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.pdb
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\bin\Debug\Capa Entidad.dll
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\bin\Debug\Capa Negocios.dll
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\bin\Debug\Capa Datos.dll
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\bin\Debug\Capa Entidad.pdb
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\bin\Debug\Capa Negocios.pdb
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\bin\Debug\Capa Datos.pdb
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa_Presentacion.MenuPrincipal.resources
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CopyComplete
+D:\AmericanSoftEscritorio\Admin\Capa Presentacion\obj\Debug\Capa_Presentacion.InventarioCP.resources
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\bin\Debug\Capa Presentacion.exe.config
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\bin\Debug\Capa Presentacion.exe
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\bin\Debug\Capa Presentacion.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\bin\Debug\Capa Entidad.dll
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\bin\Debug\Capa Negocios.dll
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\bin\Debug\Capa Datos.dll
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\bin\Debug\Capa Entidad.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\bin\Debug\Capa Negocios.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\bin\Debug\Capa Datos.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.csprojAssemblyReference.cache
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\obj\Debug\Capa_Presentacion.Login.resources
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\obj\Debug\Capa_Presentacion.MenuPrincipal.resources
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CopyComplete
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.exe
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\obj\Debug\Capa Presentacion.pdb
+C:\Users\American Soft\Desktop\Admin\Capa Presentacion\obj\Debug\Capa_Presentacion.EquiposCP.resources
